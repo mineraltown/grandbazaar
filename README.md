@@ -8,8 +8,9 @@
 - [主线](Knowledge/Main.md)
 - [小贴士](Knowledge/Tips.md)
 - [外观](Knowledge/Appearance.md)
+- [基础知识](Knowledge/Basic.md)
 - [界面说明](Knowledge/UICommon.md)
-- [操作方式](Knowledge/ActionGuide.md)
+- [操作指南](Knowledge/ActionGuide.md)
 - [时间日期](Knowledge/Date.md)
 - [天气风力](Knowledge/Weather.md)
 - [GUTS](Knowledge/GUTS.md)
@@ -17,11 +18,13 @@
 - [小矮人](Knowledge/Nature_Sprites.md)
 - [新鲜度](Knowledge/Freshness.md)
 - [滑翔伞](Knowledge/Glider.md)
+- [品质](Knowledge/Quality.md)
 
 ## 牧场生活
 
 - [农场](Life/Farmer.md)
-- [耕作](Life/Crop.md)
+- [耕作](Life/Farm.md)
+- [农作物](Life/Crop.md)
 - [种子](Life/Seed.md)
 - [动物](Life/Animal.md)
 - [宠物](Life/Pet.md)
@@ -48,8 +51,9 @@
 ## 居民
 
 - [居民介绍](Resident/Resident.md)
-- [居民好感](Resident/Favor.md)
+- [居民交流](Resident/Communication.md)
 - [恋爱结婚](Resident/Love.md)
+- [亲密度](Resident/Favor.md)
 
 ## 事件
 
