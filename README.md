@@ -21,7 +21,6 @@
 
 ## 牧场生活
 
-- [农场](Life/Farmer.md)
 - [耕作](Life/Farm.md)
 - [农作物](Life/Crop.md)
 - [种子](Life/Seed.md)
@@ -37,29 +36,27 @@
 - [昆虫](Life/Bug.md)
 - [钓鱼](Life/Fish.md)
 - [工具](Life/Prop.md)
-- [地图](Life/Map.md)
-- [商店](Life/Shop.md)
+- [飞行石](Life/TravelStone.md)
+
+## 村庄居民
+
+- [农场](Life/Farmer.md)
 - [集市](Life/Bazaar.md)
   - [集市摆设](Life/Decoration.md)
   - [热门趋势](Life/Trend.md)
 - [风车](Life/Windmill.md)
   - [妙妙珠](Life/Wonderstone.md)
 - [扩建](Life/Expansion.md)
-- [飞行石](Life/TravelStone.md)
-
-## 居民
-
-- [居民介绍](Resident/Resident.md)
+- [地图](Life/Map.md)
+- [商店](Life/Shop.md)
+- [节日](Event/Festival.md)
 - [居民交流](Resident/Communication.md)
 - [恋爱结婚](Resident/Love.md)
-- [亲密度](Resident/Favor.md)
-
-## 事件
-
-- [节日](Event/Festival.md)
-- [居民任务](Event/Mission.md)
+- [任务](Event/Mission.md)
 - 居民事件
 - 情敌事件
+
+### [居民介绍](Resident/Resident.md)
 
 ## 其他
 
