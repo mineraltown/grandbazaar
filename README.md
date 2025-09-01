@@ -5,9 +5,8 @@
 ## 基础知识
 
 - [简介](Knowledge/About.md)
-- [主线](Knowledge/Main.md)
+- [剧情主线](Knowledge/Main.md)
 - [小贴士](Knowledge/Tips.md)
-- [外观](Knowledge/Appearance.md)
 - [基础知识](Knowledge/Basic.md)
 - [界面说明](Knowledge/UICommon.md)
 - [操作指南](Knowledge/ActionGuide.md)
@@ -68,6 +67,7 @@
 - [信件](Other/Letter.md)
 - [广播](Other/Radio.md)
 - [称号](Other/AwardCaption.md)
+- [外观](Other/Appearance.md)
 - [字体](Other/Fonts.md)
 - [翻译对照表](Other/Translation.json)
 
